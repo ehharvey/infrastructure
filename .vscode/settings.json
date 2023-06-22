@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.analysis.typeCheckingMode": "off",
+    "ansible.python.activationScript": "./venv/bin/activate",
+    "ansible.python.interpreterPath": "/home/eharvey/dev/infrastructure/venv/bin/python"
+}
